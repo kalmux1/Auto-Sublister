@@ -15,7 +15,7 @@ OPEN YOUR TERMINAL & RUN THE FOLLOWING COMMANDS
 - INSTALL sublist3r 
   
   ```
-      $ sudo apt install sublist3r
+      $ sudo apt install sublist3r -y
   ```
   
 - CLONE Auto-Sublister IN YOUR TERMINAL
