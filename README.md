@@ -43,5 +43,5 @@ OPEN YOUR TERMINAL & RUN THE FOLLOWING COMMANDS
  <pre>    [input file] = Files contains domain names list in txt format
     [output file] = File in which you want all your Subdomains </pre>
 
-  <pre>                                                 HAPPY HACKING !</pre>
+  <pre>                                              HAPPY HACKING !</pre>
  
